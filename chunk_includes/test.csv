@@ -1,0 +1,4 @@
+﻿trial,teacher_word,student_word,related,type
+1,crib.wav,baby.wav,Y,exp
+2,sand.wav,beach.wav,Y,exp
+3,mattress.wav,bed.wav,Y,exp
